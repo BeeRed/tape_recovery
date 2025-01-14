@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	FILE *f=fopen("start.dat","w");
 
 	int cnt=0;
-	int pause=0;
+//	int pause=0;
 	int fileno=0;
 
 	int p=0;

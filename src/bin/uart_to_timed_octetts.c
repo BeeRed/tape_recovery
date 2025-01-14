@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 {
 	memset(bits, 0, sizeof(bits));
 	int fs=fread(bits, 1, sizeof(bits), stdin);
-	char c;
+//	char c;
 	int octett=0;
 	int pos=1;
 	int start=-1;
